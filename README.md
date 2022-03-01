@@ -1,7 +1,7 @@
 # no.-2<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="SHakespeare's Adaptations"
+       title="Shakespeare's Adaptations"
        author="Alfie Forsyth"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
@@ -23,19 +23,18 @@ Samuel Pepys' diary features several entries detailing trips that he enjoyed not
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
+_The sites of theatres in London during 1600s_ This is just an image shown the multitude of sites across London which were part of the vibrantentertainment productions at this time. Due to this high density of troupes it is easier to understand the direct competition they had with each other.
+Especially as they shared one common audience and were aiming to attract the majority of the crowd,
+the life as a performer was like many other during this time day to day living.
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       label="Theatres in London"
+       description="A map depicitng the locale of theatres in London" 
+       license="Joseph Quincy Adams. Image credit C. W. Redwood, formerly technical artist at Cornell University, Public domain, via Wikimedia Commons" 
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a4/London_map_showing_Shakespearean_theatres.png">
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+The opposing theatre troupes within London were often in competition with each other, and so productions and the source material was jealously guarded with the popular productions being particularly in demand. This meant that skilled playwrights could ensure the fortune and success of their fellow performers. Indeed many productions ere written with the active troupe member refernced as their character in the performance.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
