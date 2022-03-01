@@ -6,14 +6,6 @@
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Samuel Pepys -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
-
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Samuel_Pepys.jpg" label="Samuel Pepys/John Hayls, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
 
@@ -22,6 +14,8 @@
 Davenant and Drysden's "The Tempest" was a hugely popular adaptation of Shakespeare's original work. This also had the benefit of allowing new audieces to interact and enjoy the work especially due to the blooming nature of theatre and their productions at this time.
 
 Samuel Pepys' diary features several entries detailing trips that he enjoyed not only was he frequently attending the productions but he records the enjoymetn of the crowd at each subsequent performances, over the course of 18-20 months
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Samuel_Pepys.jpg" label="Samuel Pepys/John Hayls, Public domain, via Wikimedia Commons"> 
+<param ve-map center="Q2019734" zoom="8">
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
