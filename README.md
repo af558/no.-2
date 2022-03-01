@@ -16,7 +16,9 @@
 
 # Sample visual essay
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Davenant and Drysden's "The Tempest" was a hugely popular adaptation of Shakespeare's original work. This also had the benefit of allowing new audieces to interact and enjoy the work especially due to the blooming nature of theatre and their productions at this time.
+
+Samuel Pepys' diary features several entries detailing trips that he enjoyed not only was he frequently attending the productions but he records the enjoymetn of the crowd at each subsequent performances, over the course of 18-20 months
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
