@@ -13,7 +13,7 @@
 
 Davenant and Drysden's "The Tempest" was a hugely popular adaptation of Shakespeare's original work. This also had the benefit of allowing new audieces to interact and enjoy the work especially due to the blooming nature of theatre and their productions at this time.
 
-Samuel Pepys' diary features several entries detailing trips that he enjoyed not only was he frequently attending the productions but he records the enjoymetn of the crowd at each subsequent performances, over the course of 18-20 months
+Samuel Pepys' diary features several entries detailing trips that he enjoyed not only was he frequently attending the productions but he records the enjoyment of the crowd at each subsequent performances, over the course of 18-20 months. This showed the vibrant health of the cultural side of London during the period, with the longevity of productions indicating a popularity with audience and manuscripts of the plays, surviving that although modern adaptations have been made. The contiuned popularity and the human element that clearly resonates with a wide audience remains unchanged despite modern changes. This has a parity with today where in a modernising and changing world the presentaton may change but the content that draws and interest and creates unity remains at its core largely unchanged. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/21/Samuel_Pepys.jpg" label="Samuel Pepys/John Hayls, Public domain, via Wikimedia Commons"> 
 <param ve-map center="Q2019734" zoom="8">
 <param ve-image 
@@ -25,7 +25,7 @@ Samuel Pepys' diary features several entries detailing trips that he enjoyed not
 
 _The sites of theatres in London during 1600s_ This is just an image shown the multitude of sites across London which were part of the vibrantentertainment productions at this time. Due to this high density of troupes it is easier to understand the direct competition they had with each other.
 Especially as they shared one common audience and were aiming to attract the majority of the crowd,
-the life as a performer was like many other during this time day to day living.
+the life as a performer was like many other during this time day to day living. With the clear 
 <param ve-image 
        label="Theatres in London"
        description="A map depicitng the locale of theatres in London" 
@@ -34,7 +34,7 @@ the life as a performer was like many other during this time day to day living.
 
 ## Map
 
-The opposing theatre troupes within London were often in competition with each other, and so productions and the source material was jealously guarded with the popular productions being particularly in demand. This meant that skilled playwrights could ensure the fortune and success of their fellow performers. Indeed many productions ere written with the active troupe member refernced as their character in the performance.
+The opposing theatre troupes within London were often in competition with each other, and so productions and the source material was jealously guarded with the popular productions being particularly in demand. This meant that skilled playwrights, who were often actors first, could ensure the fortune and success of their fellow performers. Indeed many productions ere written with the active troupe member refernced as their character in the initial 'scripts' or the characters name is replaced almost synonymously.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
 
 ## Multiple viewers
