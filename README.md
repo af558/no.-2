@@ -25,7 +25,7 @@ Samuel Pepys' diary features several entries detailing trips that he enjoyed not
 
 _The sites of theatres in London during 1600s_ This is just an image shown the multitude of sites across London which were part of the vibrantentertainment productions at this time. Due to this high density of troupes it is easier to understand the direct competition they had with each other.
 Especially as they shared one common audience and were aiming to attract the majority of the crowd,
-the life as a performer was like many other during this time day to day living. With the clear 
+the life as a performer was like many other during this time day to day living. With the clear popularity of the theatre and the fact that it as performed making the works more accessible than ever before, you no longer needed to read in order to access them. Nor would you have needed the money to buy the texts or published works. In fact the access into theatres at ths time was very cheap.
 <param ve-image 
        label="Theatres in London"
        description="A map depicitng the locale of theatres in London" 
